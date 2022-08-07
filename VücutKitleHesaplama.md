@@ -32,3 +32,9 @@ System.out.println("Vücut Kitle İndeksiniz :" + vkindeks);
     
     }
 }
+
+
+
+
+
+    "System.out.println" Buradaki println ifadesini int değilde double olarak kullanmak istedim bilginize :)
