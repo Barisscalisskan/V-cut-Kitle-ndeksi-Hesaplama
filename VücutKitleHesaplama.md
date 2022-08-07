@@ -27,6 +27,8 @@ System.out.println("Boyunuz :" + boy);
 System.out.println("Kilonuz :" + kilo);
 
 System.out.println("Vücut Kitle İndeksiniz :" + vkindeks);
+
+[Patika'ya Git](https://www.patika.dev)
     
     }
 }
